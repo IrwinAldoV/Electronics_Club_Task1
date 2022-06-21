@@ -23,6 +23,12 @@ Hardware Requirement:
 Sotware(s) Used:
 
     Arduino IDE
+    
+Extra Libraries required(In Arduino IDE):
+    
+     TinyGSM
+     DallasTemperature
+     
 
 ## Circuit Diagram 
 
