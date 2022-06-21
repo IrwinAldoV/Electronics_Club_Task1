@@ -35,7 +35,9 @@ Softwares Used:
     Arduino IDE
     AutoCAD(in designing phase)
 
-## Circuit Diagram
-![](https://www.electronicshub.org/wp-content/uploads/2014/06/Auto-Intensity-Control-of-Street-Lights-Circuit-Diagram-768x367.jpg)
+## Circuit Diagrams:
+![](https://hackster.imgix.net/uploads/attachments/1450753/70ad09b4-dd83-4c36-938d-18427fb609f4_9ZzcqzwTgO.jpeg?auto=compress%2Cformat&w=740&h=555&fit=max)
+![](https://hackster.imgix.net/uploads/attachments/1450754/8c2cd617-ce4b-4e1e-973e-4c2879870e63_QjJ65aHplK.png?auto=compress%2Cformat&w=740&h=555&fit=max)
+![](https://hackster.imgix.net/uploads/attachments/1450755/15379999-c327-4a56-9f1c-5e238edc080d_MegHn64GHa.jpeg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
-The web link for the detailed description of the project: [Auto Intensity control of Street lights ](https://www.electronicshub.org/auto-intensity-control-of-street-lights/)
+The web link for the detailed description of the project: [Automatic Vehicle indication system](https://www.hackster.io/andyz1207/automated-bike-turning-light-374f81)
